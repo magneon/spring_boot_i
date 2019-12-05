@@ -26,6 +26,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<version>${spring.boot.starter.version}</version>
+			<scope>runtime</scope>
 		</dependency>
 
 		<dependency>
