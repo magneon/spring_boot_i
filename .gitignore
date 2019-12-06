@@ -29,3 +29,5 @@ mvn*
 
 # temp folder
 RemoteSystemsTempFiles/
+
+.recommenders/caches/
